@@ -29,7 +29,8 @@ Achieved 97.83% accuracy and 0.83 F1-score on RNN model.
 
 ## Snapshot
 1. BERT
-
-2. RoBERTa
-
-3. RNN
+   ![Bert Accruaracy](https://github.com/Ashleshk/Emotion-Sentiment-Classification-of-Product-Reviews-on-Twitter/blob/main/BERT%20Results/Accuracy.PNG)
+3. RoBERTa
+![RobertA Accuracy](https://github.com/Ashleshk/Emotion-Sentiment-Classification-of-Product-Reviews-on-Twitter/blob/main/RoBERTa%20Results/15.PNG)
+4. RNN
+![RNN Accuracy](https://github.com/Ashleshk/Emotion-Sentiment-Classification-of-Product-Reviews-on-Twitter/blob/main/RNN%20Results/3.PNG)
